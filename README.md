@@ -40,17 +40,17 @@ All interactive figures were generated using ORIGAMI<sup>ANALYSE</sup> available
 
 **Ion mobility mass spectrometry uncovers the impact of the patterning of oppositely charged residues on the conformational distributions of intrinsically disordered proteins** 
 
-Rebecca Beveridge1,§, Lukasz G Migas1,§, Rahul Das2, Rohit V Pappu2, Richard Kriwacki3, Perdita E. Barran1\*
+Rebecca Beveridge<sup>1,§</sup>, Lukasz G Migas<sup>1,§</sup>, Rahul Das<sup>2</sup>, Rohit V Pappu<sup>2</sup>, Richard Kriwacki<sup>3</sup> and Perdita E. Barran<sup>1*</sup>
 
-1 The Michael Barber Centre for Collaborative Mass Spectrometry, The School of Chemistry, Manchester Institute for Biotechnology, University of Manchester, Manchester, UK 
+<sup>1</sup> The Michael Barber Centre for Collaborative Mass Spectrometry, The School of Chemistry, Manchester Institute for Biotechnology, University of Manchester, Manchester, UK 
 
-2 Washington University in St. Louis, Department of Biomedical Engineering and Center for Biological Systems Engineering Campus Box 1097, One Brookings Drive, St. Louis, Missouri 63130
+<sup>2</sup> Washington University in St. Louis, Department of Biomedical Engineering and Center for Biological Systems Engineering Campus Box 1097, One Brookings Drive, St. Louis, Missouri 63130
 
-3 Structural Biology, MS 311, Room D1024F, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105-3678
+<sup>3</sup> Structural Biology, MS 311, Room D1024F, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN 38105-3678
 
 **\*** E-mail: [perdita.barran@manchester.ac.uk](mailto:perdita.barran@manchester.ac.uk)
 
-§ Both authors contributed equally to this work.
+<sup>§</sup> Both authors contributed equally to this work.
 
 **Abstract**
 
