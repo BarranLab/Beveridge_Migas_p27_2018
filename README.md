@@ -32,6 +32,10 @@ Several of the figures from within the main text and the supplementary informati
 
 [Figure S9](http://htmlpreview.github.io/?https://github.com/BarranLab/Beveridge_Migas_p27_2018/blob/master/Figure_S9.html): Evolution of a) root mean square deviation (RMSD); b) Backbone radius of gyration (Rg); c) solvent accessible surface area (SASA) and d) collision cross sections of p27-C-κ56 permutant during the desolvation molecular dynamics.
 
+------
+
+All interactive figures were generated using ORIGAMI<sup>ANALYSE</sup> available [here](https://github.com/lukasz-migas/ORIGAMI/releases). 
+
 * * *
 
 **Ion mobility mass spectrometry uncovers the impact of the patterning of oppositely charged residues on the conformational distributions of intrinsically disordered proteins** 
