@@ -1,0 +1,30 @@
+baseurl = "/"
+languageCode = "en-uk"
+title = "p27 - Beveridge/Migas"
+theme = "hello-friend"
+copyright = ""
+paginate = 5
+
+[params]
+  subtitle = ""
+  # "light" or "dark"
+  defaultTheme = "dark"
+
+[params.logo]
+  logoText = "p27 - Beveridge/Migas"
+  # or
+  #
+# path = "/img/your-example-logo.svg"
+# alt = "Your example logo alt text"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+
+[languages]
+  [languages.en]
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
