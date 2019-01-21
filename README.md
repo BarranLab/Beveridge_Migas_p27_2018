@@ -12,7 +12,7 @@ Several of the figures from within the main text and the supplementary informati
 
 [Figure 2](https://beveridge-migas-p27.netlify.com/assets/Figure_2.html): Global collision cross section distributions of all three permutants sprayed from 10 mM, 100 mM or 200 mM ammonium acetate.
 
-[Figure 4](https://beveridge-migas-p27.netlify.com/assets/Figure_4.html): Comparison of the CCS ranges observed from experimental, computational and predicted datasets.
+[Figure 3](https://beveridge-migas-p27.netlify.com/assets/Figure_3.html): Comparison of the CCS ranges observed from experimental, computational and predicted datasets.
 
 [Figure S1](https://beveridge-migas-p27.netlify.com/assets/Figure_S1.html): Mass spectra of p27-C permutants sprayed from 10 and 100 mM ammonium acetate solutions; p27-C-κ14 (a-b), p27-C-κ31 (c-d), p27-C-κ56 (e-f).
 
