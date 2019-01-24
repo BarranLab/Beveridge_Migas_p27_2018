@@ -23,6 +23,11 @@ paginate = 5
     name = "About"
     url = "/about"
 
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/home"
+
 [languages]
   [languages.en]
     writtenBy = "Written by"

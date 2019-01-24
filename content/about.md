@@ -7,7 +7,7 @@ author = "Lukasz Migas"
 
 This is a website encompasing all interactive figures that were generated for the paper entitled ["Ion Mobility Mass Spectrometry Uncovers the Impact of the Patterning of Oppositely Charged Residues on the Conformational Distributions of Intrinsically Disordered Proteins"](https://chemrxiv.org/articles/Ion_Mobility_Mass_Spectrometry_Uncovers_the_Impact_of_the_Patterning_of_Oppositely_Charged_Residues_on_the_Conformational_Distributions_of_Intrinsically_Disordered_Proteins/7312277). 
 
-The figures can be easily viewed in your browser by going to **home** of this website and selecting any of the posts. Each post consists of a single figure that is embedded on the website or can be opened in a separate tab by clicking on the **Open in another tab** link.
+The figures can be easily viewed in your browser by going to [home](https://beveridge-migas-p27.netlify.com/home/) of this website and selecting any of the posts. Each post consists of a single figure that is embedded on the website or can be opened in a separate tab by clicking on the **Open in another tab** link.
 
 ## Abstract
 
@@ -15,6 +15,4 @@ The global dimensions and amplitudes of conformational fluctuations of intrinsic
 
 ## Authors
 
-Rebecca Beveridge, Lukasz G. Migas, Rohit Pappu, Richard Kriwacki and Perdita E. Barran
-
-## 
+Rebecca Beveridge, Lukasz G. Migas, Rohit Pappu, Richard Kriwacki and Perdi
