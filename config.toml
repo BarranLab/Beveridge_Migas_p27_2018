@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-uk"
-title = "p27 - Beveridge/Migas"
+title = "Beveridge/Migas - p27"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
@@ -11,7 +11,7 @@ paginate = 5
   defaultTheme = "dark"
 
 [params.logo]
-  logoText = "p27 - Beveridge/Migas"
+  logoText = "Beveridge/Migas - p27"
   # or
   #
 # path = "/img/your-example-logo.svg"
